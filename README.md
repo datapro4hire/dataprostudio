@@ -1,5 +1,5 @@
 # DataPro Studio, Inc.
-# Data Consultancy
+## Data Consultancy
 
 We process your data while you focus on your core business.
 
@@ -9,4 +9,5 @@ We process your data while you focus on your core business.
   * Enhancing: Machine Learning models fine tuning
   * Researching: Large Language Models setup
 
-T: +1 206-423-8520 E: info@dataprostudio.dev
+T: +1 206-423-8520 
+E: info@dataprostudio.dev
